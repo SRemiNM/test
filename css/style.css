@@ -1,6 +1,19 @@
 h1{
-  color: turquoise;
+  color: darkred;
+  text-align: center;
+  font-family: 'Butcherman';
+  font-size: 40px;
 }
 html{
   background-color: black;
+}
+
+h2{
+  color: maroon;
+  text-align: center;
+  font-family: 'Creepster';
+  font-size: 22px;
+}
+img{
+  align-content: center;
 }
